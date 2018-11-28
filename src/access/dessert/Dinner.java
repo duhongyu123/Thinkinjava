@@ -14,7 +14,7 @@ public class Dinner {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Cookie x=new Cookie();
-		//x.bite()
+		//x.bite() //can't access
 	}
 
 }

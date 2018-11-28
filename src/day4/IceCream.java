@@ -10,8 +10,6 @@ class Sundae {
 	{
 		return  new Sundae();
 	}
-	
-	
 }
 
 /**
@@ -25,9 +23,6 @@ public class IceCream {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			//!Sundae x = new Sundate();
-		
 		Sundae x = Sundae.makesundate();
-	
 	}
-
 }
