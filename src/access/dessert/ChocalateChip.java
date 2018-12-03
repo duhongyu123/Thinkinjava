@@ -9,6 +9,9 @@ public class ChocalateChip extends Cookie{
 	
 	public void chomp() {
 		//!bite():
+		
+		
+		bite();
 	}
 	
 	
