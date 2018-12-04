@@ -1,4 +1,4 @@
-package day5;
+package SeventhChapter;
 
 import static net.mindview.util.Print.*;
 
