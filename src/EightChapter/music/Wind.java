@@ -13,16 +13,16 @@ import static net.mindview.util.Print.*;
  * 多态
  */
 //乐器
-class Instrument{
-	public void play(Note n) {
-		print("Instrument.play()");
-	}
-}
-public class Wind extends Instrument{
-	@Override
-	public void play(Note n) {
-		// TODO Auto-generated method stub
-		System.out.println("Wind.play()"+n);
-	}
-
-}
+//class Instrument{
+//	public void play(Note n) {
+//		print("Instrument.play()");
+//	}
+//}
+//public class Wind extends Instrument{
+//	@Override
+//	public void play(Note n) {
+//		// TODO Auto-generated method stub
+//		System.out.println("Wind.play()"+n);
+//	}
+//
+//}
